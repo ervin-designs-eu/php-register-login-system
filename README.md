@@ -1,2 +1,2 @@
 # php-register-login-system
-A Register-Login website system in PhP
+A simple register/login system written in PhP !
